@@ -1,0 +1,24 @@
+id: I6F43CD1F
+initial_creation_type: ebook
+source_metadata:
+  id: RCP-JS-08
+  title: ༄༅། །ཕྱག་ཆེན་འཁྲུལ་པ་རྩད་གཅོད་འཁྲུལ་ལུགས་ངོས་འཛིན་གྱི་གདམས་པ། །
+  author: མཛད་པ་པོ། ༧སྐྱོབ་པ་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོོ།
+  authors: &id001
+  - མཛད་པ་པོ། ༧སྐྱོབ་པ་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོོ།
+  sku: RCP-JS-08
+  cover: RCP-JS-08.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཕྱག་ཆེན་འཁྲུལ་པ་རྩད་གཅོད་འཁྲུལ་ལུགས་ངོས་འཛིན་གྱི་གདམས་པ། །
+  authors: *id001
+  sku: RCP-JS-08
+  cover: RCP-JS-08.jpg
+layers:
+- Author
+- BookTitle
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
